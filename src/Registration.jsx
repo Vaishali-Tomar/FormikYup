@@ -27,7 +27,7 @@ const Registration = () => {
         <div className="mb-6">
           <h1 className="text-3xl font-semibold text-center">Welcome!</h1>
           <p className="text-center text-gray-600">
-            To the Thapa Technical website for programmers.
+            To the  Technical website for programmers.
           </p>
         </div>
         <form onSubmit={handleSubmit}>
